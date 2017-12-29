@@ -15,22 +15,24 @@ import java.util.stream.Stream;
 
 public class UnGZipFile {
 
-    private static final String FILENAME = "D:\\LOGS\\11-2017\\" +
-            "dsrequest.log.2017-11-01--172.19.18.11.tar.gz";
+    private static final String FILENAME = "D:\\LOGS\\12-2017\\parseDSREQUEST\\" +
+            "dsrequest.log.2017-12-01--*";
 
     private static final int BUFFER_SIZE = 1024;
     Map<String, BufferedWriter> nameOfFiles = new HashMap<>();
+    Map<Integer, String> listOwnerIP = new HashMap<>();
 
     public static void main(String[] args) throws IOException{
         //Map<String, FileWriter> nameOfFiles = new HashMap<String, FileWriter>();
         long start = System.currentTimeMillis();
         UnGZipFile app = new UnGZipFile();
-        String fileDir = "D:\\LOGS\\10-2017\\REQUESTs";
+        String fileDir = "D:\\LOGS\\12-2017\\parseDSREQUEST";
         Stream<Path> files = Files.list(Paths.get(fileDir));
         files.forEach(file -> {
             long startOfFile = System.currentTimeMillis();
                   app.unGZIP(file.toString());
             System.out.println("Время обработки файла "+ (System.currentTimeMillis()-startOfFile)/1000 + " секунд");
+            System.out.println("Время от начала работы "+ (System.currentTimeMillis()-start)/1000 + " секунд");
 
             //System.out.println(file.toString());
         });
@@ -65,12 +67,17 @@ public class UnGZipFile {
                 }
                 //System.out.println(line);
                 try {
-                    String newline = ReadingStringFromFile.getOwnerDateCmd(line);
+                    //String newline = ReadingStringFromFile.getOwnerDateCmd(line);//из процесса по генерации онеров
+
+                    String newline = ReadingStringFromFile.getOwnerIP(line);
                     if (newline.contains("##$$@@")) {
                         continue;
                     }
                     //writeData.saveLine(newline);
-                    saveLine(newline);
+                    //saveLine(newline); //из процесса по генерации онеров
+                    listOfOwnerIP.p
+                    add_IP_to_File(newline);
+
                 }catch (IndexOutOfBoundsException e){
                     System.out.println("Error on line "+ line);
                 }
@@ -106,7 +113,7 @@ public class UnGZipFile {
         если есть, то открыть файл записать строку
         закрыть файл.
         */
-        String tempFolderName = "D:\\LOGS\\OWNERS\\";
+        String tempFolderName = "D:\\LOGS\\12-2017\\resultIP\\";
 
         //находим индекс первого вхождения символа ":" в подстроке
         int pos = line.indexOf(":");
