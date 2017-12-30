@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ea451b6c-ad1a-4ff6-8c68-5ab1ca35b4ea" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/UnGZipFile.java" afterPath="$PROJECT_DIR$/src/com/company/UnGZipFile.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +25,8 @@
       <file leaf-file-name="UnGZipFile.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/UnGZipFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3168">
-              <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+            <state relative-caret-position="528">
+              <caret line="38" column="58" lean-forward="true" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
               <folding>
                 <element signature="e#436#517#0" expanded="true" />
                 <element signature="e#564#596#0" expanded="true" />
@@ -42,39 +41,19 @@
                 <element signature="e#4457#4504#1" expanded="true" />
                 <element signature="e#4517#4612#1" expanded="true" />
                 <element signature="e#4747#4767#1" expanded="true" />
-                <element signature="e#4780#5834#0" expanded="true" />
-                <element signature="e#4780#5834#0" expanded="true" />
-                <element signature="e#4872#4944#0" expanded="true" />
-                <element signature="e#4876#4893#0" expanded="true" />
                 <element signature="e#4888#4892#0" expanded="true" />
-                <element signature="e#4876#4893#0" expanded="true" />
-                <element signature="e#4872#4944#0" expanded="true" />
                 <element signature="e#4987#5043#1" expanded="true" />
-                <element signature="e#5064#5153#0" expanded="true" />
-                <element signature="e#5064#5153#0" expanded="true" />
                 <element signature="e#5300#5362#1" expanded="true" />
-                <element signature="e#5318#5361#0" expanded="true" />
-                <element signature="e#5318#5361#0" expanded="true" />
                 <element signature="e#5355#5359#0" expanded="true" />
-                <element signature="e#5318#5361#0" expanded="true" />
                 <element signature="e#5383#5458#1" expanded="true" />
                 <element signature="e#5395#5457#0" expanded="true" />
                 <element signature="e#5429#5433#0" expanded="true" />
                 <element signature="e#5395#5457#0" expanded="true" />
-                <element signature="e#5479#5574#0" expanded="true" />
-                <element signature="e#5479#5574#0" expanded="true" />
-                <element signature="e#5595#5624#0" expanded="true" />
-                <element signature="e#5595#5624#0" expanded="true" />
-                <element signature="e#5595#5624#0" expanded="true" />
-                <element signature="e#5777#5800#0" expanded="true" />
-                <element signature="e#5777#5800#0" expanded="true" />
                 <element signature="e#6069#6095#0" expanded="true" />
                 <element signature="e#6211#6237#0" expanded="true" />
                 <element signature="method#progressBar#0;class#UnGZipFile#0" expanded="false" />
                 <element signature="method#closeAllFiles#0;class#UnGZipFile#0" expanded="false" />
-                <element signature="e#6822#6912#0" expanded="true" />
                 <element signature="e#6827#6848#0" expanded="true" />
-                <element signature="e#6822#6912#0" expanded="true" />
                 <element signature="method#getDstFileName#0;class#UnGZipFile#0" expanded="false" />
                 <element signature="method#saveLine#0;class#UnGZipFile#0" expanded="false" />
                 <element signature="e#7341#7397#1" expanded="true" />
@@ -82,27 +61,14 @@
                 <element signature="e#7474#7502#1" expanded="true" />
                 <element signature="e#7584#7630#1" expanded="true" />
                 <element signature="e#7836#7942#1" expanded="true" />
-                <element signature="e#7959#7997#0" expanded="true" />
-                <element signature="e#7959#7997#0" expanded="true" />
-                <element signature="e#7959#7997#0" expanded="true" />
                 <element signature="e#8196#8251#1" expanded="true" />
-                <element signature="e#8220#8250#0" expanded="true" />
-                <element signature="e#8220#8250#0" expanded="true" />
                 <element signature="e#8602#8617#0" expanded="true" />
                 <element signature="e#8627#8640#0" expanded="true" />
                 <element signature="e#8954#9036#1" expanded="true" />
-                <element signature="e#9049#9232#0" expanded="true" />
                 <element signature="e#9054#9069#0" expanded="true" />
-                <element signature="e#9049#9232#0" expanded="true" />
                 <element signature="e#9119#9135#0" expanded="true" />
-                <element signature="e#9243#9417#0" expanded="true" />
-                <element signature="e#9243#9417#0" expanded="true" />
-                <element signature="e#9299#9337#0" expanded="true" />
                 <element signature="e#9299#9314#0" expanded="true" />
-                <element signature="e#9299#9337#0" expanded="true" />
-                <element signature="e#9299#9337#0" expanded="true" />
                 <element signature="e#9324#9337#0" expanded="true" />
-                <element signature="e#9299#9337#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/MapsTraining.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="607">
-              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+              <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#153#219#1" expanded="true" />
@@ -433,7 +399,7 @@
       <option name="presentableId" value="Default" />
       <updated>1510489703586</updated>
       <workItem from="1513086657291" duration="3703000" />
-      <workItem from="1514488465358" duration="19604000" />
+      <workItem from="1514488465358" duration="20229000" />
     </task>
     <task id="LOCAL-00001" summary="установили отлов падений&#10;и выборка списка файлов из папки">
       <created>1511342591410</created>
@@ -449,11 +415,18 @@
       <option name="project" value="LOCAL" />
       <updated>1514552194442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="добавили метод выборки айпишников">
+      <created>1514568388744</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514568388744</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23307000" />
+    <option name="totallyTimeSpent" value="23932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -590,39 +563,19 @@
             <element signature="e#4457#4504#1" expanded="true" />
             <element signature="e#4517#4612#1" expanded="true" />
             <element signature="e#4747#4767#1" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
             <element signature="e#4888#4892#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
             <element signature="e#4987#5043#1" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
             <element signature="e#5300#5362#1" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5355#5359#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5383#5458#1" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
             <element signature="e#5429#5433#0" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
             <element signature="e#6069#6095#0" expanded="true" />
             <element signature="e#6211#6237#0" expanded="true" />
             <element signature="method#progressBar#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#closeAllFiles#0;class#UnGZipFile#0" expanded="false" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="e#6827#6848#0" expanded="true" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="method#getDstFileName#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#saveLine#0;class#UnGZipFile#0" expanded="false" />
             <element signature="e#7341#7397#1" expanded="true" />
@@ -630,27 +583,14 @@
             <element signature="e#7474#7502#1" expanded="true" />
             <element signature="e#7584#7630#1" expanded="true" />
             <element signature="e#7836#7942#1" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
             <element signature="e#8196#8251#1" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
             <element signature="e#8602#8617#0" expanded="true" />
             <element signature="e#8627#8640#0" expanded="true" />
             <element signature="e#8954#9036#1" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9054#9069#0" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9119#9135#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9299#9314#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9324#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -738,39 +678,19 @@
             <element signature="e#4457#4504#1" expanded="true" />
             <element signature="e#4517#4612#1" expanded="true" />
             <element signature="e#4747#4767#1" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
             <element signature="e#4888#4892#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
             <element signature="e#4987#5043#1" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
             <element signature="e#5300#5362#1" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5355#5359#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5383#5458#1" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
             <element signature="e#5429#5433#0" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
             <element signature="e#6069#6095#0" expanded="true" />
             <element signature="e#6211#6237#0" expanded="true" />
             <element signature="method#progressBar#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#closeAllFiles#0;class#UnGZipFile#0" expanded="false" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="e#6827#6848#0" expanded="true" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="method#getDstFileName#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#saveLine#0;class#UnGZipFile#0" expanded="false" />
             <element signature="e#7341#7397#1" expanded="true" />
@@ -778,27 +698,14 @@
             <element signature="e#7474#7502#1" expanded="true" />
             <element signature="e#7584#7630#1" expanded="true" />
             <element signature="e#7836#7942#1" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
             <element signature="e#8196#8251#1" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
             <element signature="e#8602#8617#0" expanded="true" />
             <element signature="e#8627#8640#0" expanded="true" />
             <element signature="e#8954#9036#1" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9054#9069#0" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9119#9135#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9299#9314#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9324#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -879,39 +786,19 @@
             <element signature="e#4457#4504#1" expanded="true" />
             <element signature="e#4517#4612#1" expanded="true" />
             <element signature="e#4747#4767#1" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
             <element signature="e#4888#4892#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
             <element signature="e#4987#5043#1" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
             <element signature="e#5300#5362#1" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5355#5359#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5383#5458#1" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
             <element signature="e#5429#5433#0" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
             <element signature="e#6069#6095#0" expanded="true" />
             <element signature="e#6211#6237#0" expanded="true" />
             <element signature="method#progressBar#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#closeAllFiles#0;class#UnGZipFile#0" expanded="false" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="e#6827#6848#0" expanded="true" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="method#getDstFileName#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#saveLine#0;class#UnGZipFile#0" expanded="false" />
             <element signature="e#7341#7397#1" expanded="true" />
@@ -919,27 +806,14 @@
             <element signature="e#7474#7502#1" expanded="true" />
             <element signature="e#7584#7630#1" expanded="true" />
             <element signature="e#7836#7942#1" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
             <element signature="e#8196#8251#1" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
             <element signature="e#8602#8617#0" expanded="true" />
             <element signature="e#8627#8640#0" expanded="true" />
             <element signature="e#8954#9036#1" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9054#9069#0" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9119#9135#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9299#9314#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9324#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1020,39 +894,19 @@
             <element signature="e#4457#4504#1" expanded="true" />
             <element signature="e#4517#4612#1" expanded="true" />
             <element signature="e#4747#4767#1" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
             <element signature="e#4888#4892#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
             <element signature="e#4987#5043#1" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
             <element signature="e#5300#5362#1" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5355#5359#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5383#5458#1" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
             <element signature="e#5429#5433#0" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
             <element signature="e#6069#6095#0" expanded="true" />
             <element signature="e#6211#6237#0" expanded="true" />
             <element signature="method#progressBar#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#closeAllFiles#0;class#UnGZipFile#0" expanded="false" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="e#6827#6848#0" expanded="true" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="method#getDstFileName#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#saveLine#0;class#UnGZipFile#0" expanded="false" />
             <element signature="e#7341#7397#1" expanded="true" />
@@ -1060,27 +914,14 @@
             <element signature="e#7474#7502#1" expanded="true" />
             <element signature="e#7584#7630#1" expanded="true" />
             <element signature="e#7836#7942#1" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
             <element signature="e#8196#8251#1" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
             <element signature="e#8602#8617#0" expanded="true" />
             <element signature="e#8627#8640#0" expanded="true" />
             <element signature="e#8954#9036#1" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9054#9069#0" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9119#9135#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9299#9314#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9324#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1161,39 +1002,19 @@
             <element signature="e#4457#4504#1" expanded="true" />
             <element signature="e#4517#4612#1" expanded="true" />
             <element signature="e#4747#4767#1" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
             <element signature="e#4888#4892#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
             <element signature="e#4987#5043#1" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
             <element signature="e#5300#5362#1" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5355#5359#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5383#5458#1" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
             <element signature="e#5429#5433#0" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
             <element signature="e#6069#6095#0" expanded="true" />
             <element signature="e#6211#6237#0" expanded="true" />
             <element signature="method#progressBar#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#closeAllFiles#0;class#UnGZipFile#0" expanded="false" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="e#6827#6848#0" expanded="true" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="method#getDstFileName#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#saveLine#0;class#UnGZipFile#0" expanded="false" />
             <element signature="e#7341#7397#1" expanded="true" />
@@ -1201,27 +1022,14 @@
             <element signature="e#7474#7502#1" expanded="true" />
             <element signature="e#7584#7630#1" expanded="true" />
             <element signature="e#7836#7942#1" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
             <element signature="e#8196#8251#1" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
             <element signature="e#8602#8617#0" expanded="true" />
             <element signature="e#8627#8640#0" expanded="true" />
             <element signature="e#8954#9036#1" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9054#9069#0" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9119#9135#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9299#9314#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9324#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1302,39 +1110,19 @@
             <element signature="e#4457#4504#1" expanded="true" />
             <element signature="e#4517#4612#1" expanded="true" />
             <element signature="e#4747#4767#1" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
             <element signature="e#4888#4892#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
             <element signature="e#4987#5043#1" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
             <element signature="e#5300#5362#1" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5355#5359#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5383#5458#1" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
             <element signature="e#5429#5433#0" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
             <element signature="e#6069#6095#0" expanded="true" />
             <element signature="e#6211#6237#0" expanded="true" />
             <element signature="method#progressBar#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#closeAllFiles#0;class#UnGZipFile#0" expanded="false" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="e#6827#6848#0" expanded="true" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="method#getDstFileName#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#saveLine#0;class#UnGZipFile#0" expanded="false" />
             <element signature="e#7341#7397#1" expanded="true" />
@@ -1342,27 +1130,14 @@
             <element signature="e#7474#7502#1" expanded="true" />
             <element signature="e#7584#7630#1" expanded="true" />
             <element signature="e#7836#7942#1" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
             <element signature="e#8196#8251#1" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
             <element signature="e#8602#8617#0" expanded="true" />
             <element signature="e#8627#8640#0" expanded="true" />
             <element signature="e#8954#9036#1" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9054#9069#0" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9119#9135#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9299#9314#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9324#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1443,39 +1218,19 @@
             <element signature="e#4457#4504#1" expanded="true" />
             <element signature="e#4517#4612#1" expanded="true" />
             <element signature="e#4747#4767#1" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
             <element signature="e#4888#4892#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
             <element signature="e#4987#5043#1" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
             <element signature="e#5300#5362#1" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5355#5359#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5383#5458#1" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
             <element signature="e#5429#5433#0" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
             <element signature="e#6069#6095#0" expanded="true" />
             <element signature="e#6211#6237#0" expanded="true" />
             <element signature="method#progressBar#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#closeAllFiles#0;class#UnGZipFile#0" expanded="false" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="e#6827#6848#0" expanded="true" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="method#getDstFileName#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#saveLine#0;class#UnGZipFile#0" expanded="false" />
             <element signature="e#7341#7397#1" expanded="true" />
@@ -1483,27 +1238,14 @@
             <element signature="e#7474#7502#1" expanded="true" />
             <element signature="e#7584#7630#1" expanded="true" />
             <element signature="e#7836#7942#1" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
             <element signature="e#8196#8251#1" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
             <element signature="e#8602#8617#0" expanded="true" />
             <element signature="e#8627#8640#0" expanded="true" />
             <element signature="e#8954#9036#1" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9054#9069#0" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9119#9135#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9299#9314#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9324#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1584,39 +1326,19 @@
             <element signature="e#4457#4504#1" expanded="true" />
             <element signature="e#4517#4612#1" expanded="true" />
             <element signature="e#4747#4767#1" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
             <element signature="e#4888#4892#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
             <element signature="e#4987#5043#1" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
             <element signature="e#5300#5362#1" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5355#5359#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5383#5458#1" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
             <element signature="e#5429#5433#0" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
             <element signature="e#6069#6095#0" expanded="true" />
             <element signature="e#6211#6237#0" expanded="true" />
             <element signature="method#progressBar#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#closeAllFiles#0;class#UnGZipFile#0" expanded="false" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="e#6827#6848#0" expanded="true" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="method#getDstFileName#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#saveLine#0;class#UnGZipFile#0" expanded="false" />
             <element signature="e#7341#7397#1" expanded="true" />
@@ -1624,27 +1346,14 @@
             <element signature="e#7474#7502#1" expanded="true" />
             <element signature="e#7584#7630#1" expanded="true" />
             <element signature="e#7836#7942#1" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
             <element signature="e#8196#8251#1" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
             <element signature="e#8602#8617#0" expanded="true" />
             <element signature="e#8627#8640#0" expanded="true" />
             <element signature="e#8954#9036#1" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9054#9069#0" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9119#9135#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9299#9314#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9324#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1796,7 +1505,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/MapsTraining.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="607">
-          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#153#219#1" expanded="true" />
@@ -1815,8 +1524,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/UnGZipFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3168">
-          <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+        <state relative-caret-position="528">
+          <caret line="38" column="58" lean-forward="true" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
           <folding>
             <element signature="e#436#517#0" expanded="true" />
             <element signature="e#564#596#0" expanded="true" />
@@ -1831,39 +1540,19 @@
             <element signature="e#4457#4504#1" expanded="true" />
             <element signature="e#4517#4612#1" expanded="true" />
             <element signature="e#4747#4767#1" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4780#5834#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
             <element signature="e#4888#4892#0" expanded="true" />
-            <element signature="e#4876#4893#0" expanded="true" />
-            <element signature="e#4872#4944#0" expanded="true" />
             <element signature="e#4987#5043#1" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
-            <element signature="e#5064#5153#0" expanded="true" />
             <element signature="e#5300#5362#1" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5355#5359#0" expanded="true" />
-            <element signature="e#5318#5361#0" expanded="true" />
             <element signature="e#5383#5458#1" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
             <element signature="e#5429#5433#0" expanded="true" />
             <element signature="e#5395#5457#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5479#5574#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5595#5624#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
-            <element signature="e#5777#5800#0" expanded="true" />
             <element signature="e#6069#6095#0" expanded="true" />
             <element signature="e#6211#6237#0" expanded="true" />
             <element signature="method#progressBar#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#closeAllFiles#0;class#UnGZipFile#0" expanded="false" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="e#6827#6848#0" expanded="true" />
-            <element signature="e#6822#6912#0" expanded="true" />
             <element signature="method#getDstFileName#0;class#UnGZipFile#0" expanded="false" />
             <element signature="method#saveLine#0;class#UnGZipFile#0" expanded="false" />
             <element signature="e#7341#7397#1" expanded="true" />
@@ -1871,27 +1560,14 @@
             <element signature="e#7474#7502#1" expanded="true" />
             <element signature="e#7584#7630#1" expanded="true" />
             <element signature="e#7836#7942#1" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
-            <element signature="e#7959#7997#0" expanded="true" />
             <element signature="e#8196#8251#1" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
-            <element signature="e#8220#8250#0" expanded="true" />
             <element signature="e#8602#8617#0" expanded="true" />
             <element signature="e#8627#8640#0" expanded="true" />
             <element signature="e#8954#9036#1" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9054#9069#0" expanded="true" />
-            <element signature="e#9049#9232#0" expanded="true" />
             <element signature="e#9119#9135#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9243#9417#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9299#9314#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
             <element signature="e#9324#9337#0" expanded="true" />
-            <element signature="e#9299#9337#0" expanded="true" />
           </folding>
         </state>
       </provider>
